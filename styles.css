@@ -1,0 +1,60 @@
+/* selector de tipo */
+h2{
+    color: royalblue;
+    font-size: xx-large;
+    text-align: center;
+}
+/* flexbox layout + selector de clase class*/
+.list{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+/* selecto de hijos */
+ul > li{
+    display: unset;
+}
+
+/* selector de ids */
+
+#link{
+    font-size: xx-large;
+    color: black;
+}
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+.one {
+    grid-column: 1 / 3;
+    grid-row: 1;
+}
+.two {
+    grid-column: 2 / 4;
+    grid-row: 1 / 3;
+}
+.three {
+    grid-column: 1;
+    grid-row: 2 / 5;
+}
+.four {
+    grid-column: 3;
+    grid-row: 3;
+}
+.five {
+    grid-column: 2;
+    grid-row: 4;
+}
+
+/* Modelo de caja  */
+#Video{
+    border: 2px solid rebeccapurple;
+    padding: .5em;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+}
