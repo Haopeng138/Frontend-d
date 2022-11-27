@@ -24,10 +24,24 @@ ul > li{
 
 #container{
     display: flex;
+    align-items: stretch;
 }
-#center{
-    flex-grow: 1;
+
+#container > #left{
+    color: aliceblue;
+    background-color: rgb(158, 35, 35);
 }
+
+#container > #center{
+    color:black;
+    background-color: aliceblue;
+}
+
+#container > #right{
+    color: beige;
+    background-color: slategrey;
+}
+
 
 .wrapper {
     display: grid;
