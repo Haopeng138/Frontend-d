@@ -1,21 +1,12 @@
-import mysql.connector
-import os
-import csv
-con = mysql.connector.connect(user='root', password='Df13867072088',
-                              host='127.0.0.1',
-                              database='sys')
 
-# f = open(sql_file ,"r")
-cur = con.cursor()
-# cur.execute(f.read())
-# rows = cur.fetchall() 
+import csv
 
 archivo_salida = "Productor-Tabla 1.csv"
 wt = open(archivo_salida,"r",encoding='utf-8')
 csv_data = csv.reader(wt,delimiter=';')
 primero = True
 
-fd = open("Producto.txt","w",encoding="utf-8")
+fd = open("Productor.txt","w",encoding="utf-8")
 
 for row in csv_data:
     if primero:
@@ -38,5 +29,3 @@ for row in csv_data:
         #con.commit()
 fd.close()
 wt.close()
-
-con.close()
