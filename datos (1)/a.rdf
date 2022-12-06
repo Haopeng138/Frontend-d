@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+	xmlns:admin="http://webns.net/mvcb/">
+
+<rdf:Description>
+	<dc:title>Destitute pea pickers in California. Mother of seven children. Age thirty-two. Nipomo, California</dc:title>
+	<dc:description>1 negative : nitrate ; 4 x 5 in
+Photograph shows Florence Thompson with three of her children in a photograph known as "Migrant Mother." For background information, see "Dorothea Lange's M̀igrant Mother' photographs ..." http://www.loc.gov/rr/print/list/128_migm.html
+Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)</dc:description>
+	<dc:language>es</dc:language>
+	<dc:creator rdfs:Literal="Lange,Dorothea" />
+	<dc:license rdfs:Literal="No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black and White Photographs" />
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Image" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+</rdf:RDF>
