@@ -1,6 +1,6 @@
 <script type="application/ld+json">
     {
-      "@context":"http://schema.org",
+      "@context" : "http://schema.org",
       "@type":"Movie",
       "name": "Metropoli",
       "inLanguage": "de",
@@ -12,8 +12,5 @@
          "@type":" URL",
          "url":"https://www.imdb.com/title/tt0017136/fullcredits/?ref_=tt_ov_st_sm",
       },
-
-      
    }
-
 </script>
