@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+</head>
+  <body>
+    <!-- 加了个菜单栏 -->
+    <ul class="nav nav-tabs navbar-fixed-top" >
+        <li class="nav-item">
+            <a class="nav-link active" href="#">HomePage</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#ini">What it's?  </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#ori"> Origins </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#"> Video </a>
+        </li>
+    </ul>
+
+    <!-- carousel 之前有两个按钮但是删除了 因为只有一个图片 -->
+    <div id="carouselExample" class="carousel slide">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="./img/Imagen1.jpeg" class="d-block w-100" alt="...">
+          </div>
+        </div>
+    </div>
+
+   
+    <div class="container">
+        <!-- Content here -->
+        <h1 class="display-1" id="ini">
+            <div  class="text-center">
+                What is Mid Autumn Festival?
+            </div>
+        </h1>
+
+        <p >The <a class="link-info" href="https://en.wikipedia.org/wiki/Mid-Autumn_Festival">
+            Mid-Autumn Festival</a>(Chinese: 中秋節 / 中秋节), also known as the Moon Festival or Mooncake Festival, is a traditional festival celebrated in Chinese culture. Some countries also celebrate Similar holidays such as： </p>
+          <ul class="list" id="center">
+            <li>Japan (Tsukimi)</li>
+            <li>Korea (Chuseok)</li>
+            <li>Vietnam (Tết Trung Thu)</li>
+          </ul>
+         
+        <p>and other countries in East and Southeast Asia.</p>
+        <p>It is one of the most important holidays in Chinese culture; its popularity is on par with that of Chinese New Year. The history of the Mid-Autumn Festival dates back over 3,000 years.The festival is held on the 15th day of the 8th month of the Chinese lunisolar calendar with a full moon at night, corresponding to mid-September to early October of the Gregorian calendar. On this day, the Chinese believe that the Moon is at its brightest and fullest size, coinciding with harvest time in the middle of Autumn. </p>
+        
+        <h2 class="display-4" id="ori">
+            <div  class="text-center">
+                Origins of The Mid Autumn Festival
+            </div>
+        </h2>
+        <p>The Mid-Autumn Festival originated from the worship of celestial phenomena, and evolved from the Qiu Xi festival in ancient times. The existing written records of the word "Mid-Autumn Festival" were first found in Han Dynasty documents.</p>
+    </div>
+
+    <div class="container">
+        <div  class="text-center">
+            <h1 class="display-1" > Celebrations</h1>
+            <img src="img/myimg.jpeg" alt="osmanthus wine" class="img-fluid" >
+        </div>
+    </div>
+    <div class="container text-center">
+        <div class="row align-items-start">
+            <div class="col">
+                <h1 class="display-1"> Video</h1>
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.youtube.com/embed/iuzbA2I4KO8" title="Festive China: Mid-Autumn Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            <div class="col">
+                <h1 class="display-1" id="audio"> Audio </h1>
+                <audio controls>
+                  <!-- Download some mp3 audio src  -->
+                  <source src="/audios/myaudio.mp3" type="audio/mpeg">
+                </audio>
+            </div>
+            <div class="col">
+                    <h1 class="display-1"> <a href="calendartable.html">Diference between calendar</a>  </h1>
+            </div>
+        </div>
+    </div>   
+
+   
+    <footer class=" text-center text-white">
+
+        <a href="mailto:jack@kingyar.com" class="text-black"> Send Email </a>
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            © 2020 Copyright:
+           
+          </div>
+    </footer>
+  </body>
+</html>
