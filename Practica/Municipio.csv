@@ -1,0 +1,43 @@
+表格 1
+Id;Nombre;UTM Est (X);UTM Nord (Y);Longitud;Latitud;Comarca;Ambit;Tipologia;Estat de conservacio;Proteccio;Acces;Us actual;Titularitat;Prehistoric;Paleolitic;Neolitic;Edats dels Metalls;Antic;Iberic;Roma;Pre-romanic;Romanic;Medieval;Modern;Contemporani
+1;Abric de can Castellvi;391169;4573512;169.995;4.130.573;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Privada;Prehistoric;;Neolitic;;;;;;;Medieval;;
+2;Abric de la font de l'Atmetllo;391511;4573477;170.404;4.130.546;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Privada;;;;;;;;;;Medieval;Modern;
+3;Abric de Segarrulls;392692;4574237;171.801;4.131.246;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Dificil;Sense us;Privada;Prehistoric;;;Edats dels Metalls;;;;;;;;
+4;Abric del cementiri;392669;4574664;171.766;4.131.631;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Dificil;Sense us;Privada;Prehistoric;;;;;;;;;;;
+5;Adoberia del Cojunt Monumental d'Olerdola;391956;4573289;170.938;4.130.383;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Facil;Cultural;Publica;;;;;Antic;Iberic;;;;;;
+6;Balma dels Masets;394107;4573196;173.509;4.130.328;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Privada;Prehistoric;Paleolitic;Neolitic;;Antic;Iberic;;;;;;
+7;Balmes de can Ximet;391297;4573439;170.149;4.130.509;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Privada;Prehistoric;;;Edats dels Metalls;;;;;;Medieval;;
+8;Bosc de can Castellvi;390854;4573807;169.613;4.130.834;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Sense us;Privada;;;;;Antic;Iberic;;;;;;
+9;Cami de cal Piques;394568;4577347;173.987;4.134.072;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Productiu;Privada;Prehistoric;;Neolitic;;;;;;;;;
+10;Cami de la Casa Nova;390019;4575865;168.575;4.132.676;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Productiu;Privada;;;;;Antic;Iberic;;;;;;
+11;Cami de Penyafel;390067;4574642;168.658;4.131.576;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Productiu;Privada;;;;;Antic;Iberic;;;;;;
+12;Can Torres/ L'Olivera;394585;4576885;174.015;4.133.657;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Productiu;Privada;Prehistoric;;;Edats dels Metalls;;;;;;;;
+13;Cellers del Conjunt Monumental d'Olerdola;392154;4573319;171.174;4.130.412;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Facil;Cientific /Cultural;Publica;;;;;;;;;;Medieval;;
+14;Cova de cal Bertranet;395681;4576497;175.332;4.133.321;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Dificil;Sense us;Privada;Prehistoric;;;;;;;;;;;
+15;Cova de la Plana Rodona;392619;4574783;171.704;4.131.737;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Privada;Prehistoric;;;Edats dels Metalls;;;;;;;;
+16;Cova de Segarrulls;392443;4574437;1.715;4.131.423;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Privada;Prehistoric;;Neolitic;Edats dels Metalls;;;;;;;;
+17;Cova del Pi;393881;4573153;1.7324;4.130.286;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Dificil;Sense us;Privada;Prehistoric;;Neolitic;Edats dels Metalls;Antic;Iberic;Roma;;;;;
+18;El Castellot de la Barquera;394415;4576470;1.7382;4.133.279;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Sense us;Privada;;;;;;;;;Romanic;Medieval;;
+19;Estable del Conjunt Monumental d'Olerdola;391948;4573334;170.928;4.130.423;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Facil;Cultural;Publica;;;;;;;;;;Medieval;;
+20;Forat del Pont / Forat Rodo;393363;4574945;1.7259;4.131.893;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Productiu;Publica;Prehistoric;;Neolitic;Edats dels Metalls;;;;;;;;
+21;Jaciment de cal Maiol;392159;4575186;171.147;4.132.094;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Facil;Productiu;Privada;Prehistoric;Paleolitic;Neolitic;;;;;;;;;
+22;Jaciment de l'Hostal Nou;393598;4579047;1.727.980.158;4.135.589.796;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Social;Privada;;;;;Antic;Iberic;Roma;;;;;
+23;Jaciment de la font de l'Ametllo;391584;4573550;1.7049;4.130.613;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Publica;;;;;;;;;;Medieval;;
+24;Jaciment de mas Rabassa;392939;4576996;1.720.466.647;4.133.733.748;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Productiu;Privada;;;;;Antic;;Roma;;;;;
+25;Jaciment de Sant Joan de Viladellops;394159;4573357;173.568;4.130.473;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Productiu;Privada;;;;;Antic;;Roma;;;;;
+26;La Torrota;394494;4578761;173.874;4.135.344;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Facil;Alters;Privada;;;;;Antic;;Roma;;;;;
+27;Les Carreteres;395505;4573421;175.175;4.130.548;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Sense us;Privada;;;;;Antic;Iberic;;;;;;
+28;Les Planes;392415;4574484;171.465;4.131.465;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Sense us;Privada;;;;;Antic;;Roma;;;;;
+29;Necropolis de Sant Cugat de Moja;390450;4575755;169.095;4.132.583;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Facil;Sense us;Privada;;;;;;;;;;Medieval;Modern;Contemporani
+30;Necropolis de Sant Pere Molanta;394915;4577493;17.439.852;4.134.207.746;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Altres;Privada accessible;;;;;;;;;Romanic;Medieval;;
+31;Pou Nou;394463;4579018;173.833;4.135.575;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Productiu;Privada;Prehistoric;;;Edats dels Metalls;;;;;;;;
+32;Pous iberics de Moja;390411;4575762;1.690.485.473;413.258.932;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Social;Publica;;;;;Antic;Iberic;;;;;;
+33;Pujolet de Moja;390890;4576650;169.605;4.133.395;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Productiu;Privada;Prehistoric;;Neolitic;Edats dels Metalls;;;;;;;;
+34;Restes al torrent de Fotallada;394964;4576617;174.473;413.342;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Sense us;Privada;;;;;;;;;;;;
+35;Taller de Fontanilles;392728;4574323;171.842;4.131.324;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Sense us;Privada;Prehistoric;;Neolitic;;;;;;;;;
+36;Taller dels Forats de la Fita;393530;4573026;172.823;4.130.167;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Dificil;Altres;Privada;Prehistoric;;Neolitic;;;;;;;;;
+37;Torre de la Fot de l'Atmetllo;391642;4573566;170.558;4.130.628;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Dificil;Sense us;Privada;;;;;;;;;;Medieval;;
+38;Villa Concha;390412;4575598;169.052.862;4.132.440.751;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Dolent;Legal;Facil;Social;Privada;;;;;Antic;;Roma;;;;;
+39;Villa Maimona;394491;4577989;173.884;4.134.649;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Productiu;Privada;;;;;Antic;;Roma;;;;;
+40;Vinya del Tico/ Can Torres;394800;4576740;174.275;4.133.528;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Regular;Legal;Facil;Productiu;Privada;;;;;Antic;Iberic;;;;;;
+41;Pla dels Albats;392278;4573423;171.321;4.130.508;Alt Penedes;Patrimoni immoble;Jaciment arqueologic;Bo;Legal;Facil;Cientific;Publica;;;;;;;;Pre-romanic;;;;

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Root [
+    <!ELEMENT Root ANY>
+    <!-- Parte Ficha -->
+    <!ELEMENT Ficha (Temas?,Datos?,Procedencia?,Otros?)>
+
+    <!ELEMENT Temas (palabraclave*)>
+    <!ELEMENT palabraclave (#PCDATA)>
+
+    <!ELEMENT Datos (Sexo?,Edad?,EstadoCivil?,Profesion?,Educacion?)>
+    <!ELEMENT Sexo (#PCDATA)>
+    <!ELEMENT Edad (#PCDATA)>
+    <!ELEMENT EstadoCivil (#PCDATA)>
+    <!ELEMENT Profesion (#PCDATA)>
+    <!ELEMENT Educacion (#PCDATA)>
+
+    <!ELEMENT Procedencia (Poblacion?,Provincia?,Pais?)>
+    <!ELEMENT Poblacion (#PCDATA)>
+    <!ELEMENT Provincia (#PCDATA)>
+    <!ELEMENT Pais (#PCDATA)>
+
+    <!ELEMENT Otros (GeneroAutobiografico?,Titulo?,Codigo?)>
+    <!ELEMENT GeneroAutobiografico (#PCDATA)>
+    <!ELEMENT Titulo (#PCDATA)>
+    <!ELEMENT Codigo (#PCDATA)>
+
+    <!-- Parte Texto -->
+    <!ELEMENT Texto (TituloTexto?,Parrafo*)>
+    <!ELEMENT TituloTexto (#PCDATA)>
+    <!ELEMENT Parrafo (NombrePropios*|Errores*|TiemposVerbales*|Pronombres*|ANY)>
+
+    <!ELEMENT NombrePropios (dePersona?,deLugar?)>
+    <!ELEMENT dePersona (#PCDATA)>
+    <!ELEMENT deLugar (#PCDATA)>
+
+    <!ELEMENT Errores (#PCDATA)>
+
+    <!ELEMENT TiemposVerbales (Pasado*|Presente*|Futuro*)>
+    <!ELEMENT Pasado (#PCDATA)>
+    <!ELEMENT Presente (#PCDATA)>
+    <!ELEMENT Futuro (#PCDATA)>
+
+    <!ELEMENT Pronombres (#PCDATA)>
+]>
+
+<Root>
+    <Ficha>
+        <Temas>
+            <palabraclave>
+                
+            </palabraclave>
+            <palabraclave>
+     
+            </palabraclave>
+            <palabraclave>
+             
+            </palabraclave>
+        </Temas>
+        <Datos>
+            <Sexo></Sexo>
+            <Edad></Edad>
+            <EstadoCivil></EstadoCivil>
+            <Profesion></Profesion>
+            <Educacion></Educacion>
+        </Datos>
+        <Procedencia>
+            <Poblacion></Poblacion>
+            <Provincia></Provincia>
+            <Pais></Pais>
+        </Procedencia>
+        <Otros>
+            <GeneroAutobiografico></GeneroAutobiografico>
+            <Titulo></Titulo>
+            <Codigo> </Codigo>
+        </Otros>
+    </Ficha>
+
+    <Texto>
+        <TituloTexto>
+
+        </TituloTexto>
+        <Parrafo>
+
+        </Parrafo>
+        <Parrafo>
+         
+           
+                <TiemposVerbales>    <Pasado>Es por ti que llevo uno dos y tres años caminando sin rumbo cierto, aunque con mola</Pasado>   </TiemposVerbales>
+          
+        </Parrafo>
+    </Texto>
+</Root>
